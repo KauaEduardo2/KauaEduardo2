@@ -275,5 +275,174 @@ namespace Funçôes
 }
 
 
+Projeto 8 
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SWITCH
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string cor = "Verde";
+            // switch usado para dar varias condicoes a uma unica variavel
+            // exemplo abaixo
+            switch (cor)
+            {
+                case "Vermelho":
+                    Console.WriteLine("Sua cor favorita é Vermelho");
+                    break;
+                case "Amarelo":
+                    Console.WriteLine("Sua cor favorita é Amarelo");
+                    break;
+                case "Azul":
+                    Console.WriteLine("Sua cor favorita é Azul");
+                    break;
+                default:
+                    Console.WriteLine("Verde");
+                    break;
+
+            }
+            Console.ReadLine(); 
+        }
+    }
+}
+
+Projeto 9 
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Enum
+{
+    internal class Program
+    {
+        /* Enum serve para que voce consiga Definir valores fixos a uma variavel 
+         * nesse exemplo Cor ai voce define os valores para cor ai 
+         * depois pode chamar cor no seu main
+         * */
+        enum Cor {Azul, Vermelho, Verde, Amarelo }
+        static void Main(string[] args)
+        {
+            Cor corfavorita = Cor.Azul;
+            Cor corFavoritaDoKaua = Cor.Amarelo;
+
+            Console.WriteLine((Cor)2);
+            Console.WriteLine(corfavorita);
+            Console.WriteLine(corFavoritaDoKaua);
+            Console.ReadLine(); 
+        }
+    }
+}
+
+
+
+Projeto 10
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Vetor
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            /*
+             Para criar um vetor em C
+             precisa definir o tipo dele igual de uma variavel 
+             depois o nome dele em seguida usar o comando NEW e a 
+             seguir o tamanho que o vetor tera
+             */
+            string[] produtos = new string[5]
+             {
+                "Maça",//[0]
+                "Pera",//[1]
+                "Couve",//[2]
+                "Batata",//[3]
+                "Leite",//[4]
+
+             };
+            // para alterar o valor de algum indice do vetor é igual de uma variavel
+            produtos[0] = "Maça verde";
+            Console.WriteLine(produtos[0]);
+            // outra forma de criar um vetor é definir o tipo dele e o nome depois passar seus valores
+            int[] valores = { 40, 24, 15, 99 };
+            Console.WriteLine(valores[0]);
+            Console.WriteLine(valores[1]);
+
+            Console.ReadLine();
+        }
+    }
+}
+
+
+Projeto 11
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Enum_com_swicht
+{
+    internal class Program
+    {
+        enum Opcao{ Criar = 1, Deletar, Editar, Listar, Atualizar}
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Escolha uma das opções abaixo: ");
+            Console.WriteLine(" 1 - Criar\n 2 - Deletar \n 3 - Editar\n 4 - Listar\n 5 - Atualizar");
+            int index = int.Parse(Console.ReadLine());
+            Opcao opcaoSelecionada = (Opcao)index;
+            switch(opcaoSelecionada)
+            {
+                case Opcao.Criar:
+                    Console.WriteLine("Criar é foda");
+                    break;
+                case Opcao.Deletar:
+                    Console.WriteLine("Delete Imediatamente");
+                    break;
+                case Opcao.Editar:
+                    Console.WriteLine("Edite manualmente");
+                    break;
+                case Opcao.Listar:
+                    Console.WriteLine("Seu Programa foi listado");
+                    break;
+                case Opcao.Atualizar:
+                    Console.WriteLine("Editado");
+                    break;
+                default:
+                    Console.WriteLine("Opcao Invalida");
+                    break;
+            }
+            Console.ReadLine();
+            
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
 
 
