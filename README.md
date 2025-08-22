@@ -1,20 +1,6 @@
 <div align="center">
-  <img src="https://i.imgur.com/8m5vcqG.png" alt="header" width="100%"/>
-</div>
-
-<div align="center">
-  <h2 style="color: #FF6B35;">Sou de Colombo, PR</h2>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=2000&color=8B5CF6&center=true&vCenter=true&width=600&height=100&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Kau%C3%A3;Estudo+Desenvolvimento+de+Sistemas;Atualmente+moro+em+Colombo%2C+PR;Trabalho+no+BNE+(Banco+Nacional+de+Empregos)" alt="Typing SVG" />
 </div>
-
----
-
-## 🚀 Sobre Mim
-
-Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos desafios e aprendizado contínuo.
 
 ---
 
@@ -115,9 +101,5 @@ Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos d
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/8m5vcqG.png" alt="footer" width="100%"/>
-</div>
-
-<div align="center">
-  <p style="color: #FF6B35; font-weight: bold; margin-top: 10px;">⭐ Se este perfil te ajudou, considere dar uma estrela!</p>
+  <p>⭐ Se este perfil te ajudou, considere dar uma estrela!</p>
 </div>
