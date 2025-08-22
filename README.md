@@ -1,7 +1,12 @@
-# Olá! 👋 Eu sou Kauã
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=2000&color=8B5CF6&center=true&vCenter=true&width=600&height=100&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Kau%C3%A3;Estudo+Desenvolvimento+de+Sistemas;Moro+em+Colombo%2C+PR;Trabalho+no+BNE" alt="Typing SVG" />
+  <div style="background: linear-gradient(135deg, #8B5CF6 0%, #1F2937 50%, #000000 100%); padding: 40px 20px; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 10px 30px rgba(139, 92, 246, 0.3);">
+    <h1 style="color: white; font-size: 2.5em; margin: 0 0 20px 0; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+      Olá! 👋 Eu sou Kauã
+    </h1>
+    <div style="margin-top: 20px;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Kau%C3%A3;Estudo+Desenvolvimento+de+Sistemas;Moro+em+Colombo%2C+PR;Trabalho+no+BNE" alt="Typing SVG" />
+    </div>
+  </div>
 </div>
 
 ---
@@ -109,5 +114,9 @@ Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos d
 ---
 
 <div align="center">
-  <p>⭐ Se este perfil te ajudou, considere dar uma estrela!</p>
+  <div style="background: linear-gradient(135deg, #000000 0%, #1F2937 50%, #8B5CF6 100%); padding: 30px 20px; border-radius: 15px; margin-top: 30px; box-shadow: 0 10px 30px rgba(139, 92, 246, 0.3);">
+    <p style="color: white; font-size: 1.2em; margin: 0; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+      ⭐ Se este perfil te ajudou, considere dar uma estrela!
+    </p>
+  </div>
 </div>
