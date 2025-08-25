@@ -1,6 +1,6 @@
 <!-- Header Animado com Ondas -->
 <div align="center">
-  <img src="header_waves.gif" alt="Ondas Animadas" width="100%" height="120" />
+  <img src="Header.gif" alt="Ondas Animadas" width="100%" height="120" />
 </div>
 
 <div align="center">
@@ -98,7 +98,7 @@
 
 <!-- Footer Animado com Ondas -->
 <div align="center">
-  <img src="footer_waves.gif" alt="Ondas Animadas" width="100%" height="80" />
+  <img src="Footer.gif" alt="Ondas Animadas" width="100%" height="80" />
 </div>
 
 <div align="center">
