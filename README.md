@@ -12,11 +12,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=KauaEduardo2&show_icons=true&count_private=true&hide_border=true&title_color=f8ad09&icon_color=f8ad09&text_color=c9d1d9&bg_color=0d1117">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KauaEduardo2&show_icons=true&count_private=true&hide_border=true&title_color=f8ad09&icon_color=f8ad09&text_color=c9d1d9&bg_color=0d1117" alt="Kauã Eduardo github stats" style="max-width: 100%; height: auto; max-height: 195px;">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=KauaEduardo2&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&bg_color=0d1117">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KauaEduardo2&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&bg_color=0d1117" alt="Kauã Eduardo github stats" style="max-width: 100%; height: auto; max-height: 195px;">
   </a>
 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=KauaEduardo2&theme=radical&hide_border=true&background=0D1117&stroke=f8ad09&ring=f8ad09&fire=f8ad09&currStreakNum=c9d1d9&currStreakLabel=f8ad09&sideNums=c9d1d9&sideLabels=f8ad09&dates=c9d1d9" alt="GitHub Streak" style="max-width: 100%; height: auto; max-height: 195px;">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaEduardo2&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" style="max-width: 100%; height: auto; max-height: 195px;">
 </div>
 
 ---
@@ -33,7 +33,6 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
