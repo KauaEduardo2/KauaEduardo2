@@ -1,22 +1,34 @@
-<!-- Header Animado em Ondas -->
+<!-- Header com Gradiente Roxo -->
 <div align="center">
-  <svg width="100%" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none">
-    <defs>
-      <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#A855F7;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#C084FC;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <path d="M0,60 C300,20 600,100 900,60 C1050,40 1200,80 1200,60 L1200,120 L0,120 Z" fill="url(#waveGradient)">
-      <animate attributeName="d" 
-               dur="3s" 
-               repeatCount="indefinite"
-               values="M0,60 C300,20 600,100 900,60 C1050,40 1200,80 1200,60 L1200,120 L0,120 Z;
-                       M0,60 C300,100 600,20 900,60 C1050,80 1200,40 1200,60 L1200,120 L0,120 Z;
-                       M0,60 C300,20 600,100 900,60 C1050,40 1200,80 1200,60 L1200,120 L0,120 Z" />
-    </path>
-  </svg>
+  <div style="
+    background: linear-gradient(135deg, #8B5CF6 0%, #A855F7 50%, #C084FC 100%);
+    height: 120px;
+    width: 100%;
+    border-radius: 0 0 20px 20px;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+  ">
+    <!-- Ondas decorativas estáticas -->
+    <div style="
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 40px;
+      background: linear-gradient(45deg, transparent 30%, rgba(255,255,255,0.1) 50%, transparent 70%);
+      clip-path: polygon(0 100%, 100% 100%, 100% 0, 85% 50%, 70% 0, 55% 50%, 40% 0, 25% 50%, 10% 0, 0 50%);
+    "></div>
+    <div style="
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 30px;
+      background: linear-gradient(-45deg, transparent 30%, rgba(255,255,255,0.05) 50%, transparent 70%);
+      clip-path: polygon(0 100%, 100% 100%, 100% 0, 90% 60%, 80% 0, 70% 60%, 60% 0, 50% 60%, 40% 0, 30% 60%, 20% 0, 10% 60%, 0 0);
+    "></div>
+  </div>
 </div>
 
 <div align="center">
@@ -112,29 +124,41 @@
   <p>⭐ Se este perfil te ajudou, considere dar uma estrela!</p>
 </div>
 
-<!-- Footer Animado -->
+<!-- Footer com Gradiente Roxo -->
 <div align="center">
-  <svg width="100%" height="80" viewBox="0 0 1200 80" preserveAspectRatio="none">
-    <defs>
-      <linearGradient id="footerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#C084FC;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#A855F7;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <path d="M0,0 L1200,0 L1200,80 C900,60 600,20 300,60 C200,80 100,40 0,60 Z" fill="url(#footerGradient)">
-      <animate attributeName="d" 
-               dur="4s" 
-               repeatCount="indefinite"
-               values="M0,0 L1200,0 L1200,80 C900,60 600,20 300,60 C200,80 100,40 0,60 Z;
-                       M0,0 L1200,0 L1200,80 C900,20 600,60 300,20 C200,40 100,80 0,40 Z;
-                       M0,0 L1200,0 L1200,80 C900,60 600,20 300,60 C200,80 100,40 0,60 Z" />
-    </path>
-  </svg>
+  <div style="
+    background: linear-gradient(135deg, #C084FC 0%, #A855F7 50%, #8B5CF6 100%);
+    height: 80px;
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+    position: relative;
+    overflow: hidden;
+    margin-top: 20px;
+  ">
+    <!-- Ondas decorativas estáticas -->
+    <div style="
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 30px;
+      background: linear-gradient(-45deg, transparent 30%, rgba(255,255,255,0.1) 50%, transparent 70%);
+      clip-path: polygon(0 0, 100% 0, 100% 100%, 85% 50%, 70% 100%, 55% 50%, 40% 100%, 25% 50%, 10% 100%, 0 50%);
+    "></div>
+    <div style="
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 20px;
+      background: linear-gradient(45deg, transparent 30%, rgba(255,255,255,0.05) 50%, transparent 70%);
+      clip-path: polygon(0 0, 100% 0, 100% 100%, 90% 40%, 80% 100%, 70% 40%, 60% 100%, 50% 40%, 40% 100%, 30% 40%, 20% 100%, 10% 40%, 0 100%);
+    "></div>
+  </div>
 </div>
 
 <div align="center">
-  <p style="margin-top: -60px; color: white; font-weight: bold; font-size: 14px;">
+  <p style="margin-top: -50px; color: white; font-weight: bold; font-size: 14px; position: relative; z-index: 1;">
     🚀 Obrigado por visitar meu perfil! 🚀
   </p>
 </div>
