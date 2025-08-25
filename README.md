@@ -93,16 +93,10 @@
 
 
 <div align="center">
-  <p>⭐ Se este perfil te ajudou, considere dar uma estrela!</p>
+  <p>⭐ Muito obrigado pela visita ⭐ </p>
 </div>
 
 <!-- Footer Animado com Ondas -->
 <div align="center">
   <img src="Footer.gif" alt="Ondas Animadas" width="100%" height="80" />
-</div>
-
-<div align="center">
-  <p style="margin-top: -40px; color: white; font-weight: bold; font-size: 14px;">
-    🚀 Obrigado por visitar meu perfil! 🚀
-  </p>
 </div>
