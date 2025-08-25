@@ -12,17 +12,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4202e059a6da0a02b382ca8e6ee3173b65d30ff788eb4b7b78089ad61122c7c2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b6175614564756172646f322673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565267469746c655f636f6c6f723d6638616430392669636f6e5f636f6c6f723d66386164303926746578745f636f6c6f723d6339643164392662675f636f6c6f723d306431313137">
+    <img width="49%" height="195px" src="https://camo.githubusercontent.com/4202e059a6da0a02b382ca8e6ee3173b65d30ff788eb4b7b78089ad61122c7c2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b6175614564756172646f322673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565267469746c655f636f6c6f723d6638616430392669636f6e5f636f6c6f723d66386164303926746578745f636f6c6f723d6339643164392662675f636f6c6f723d306431313137" alt="Kauã Eduardo github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=KauaEduardo2&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=f8ad09&amp;icon_color=f8ad09&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%; height: auto; max-height: 195px;">
+  </a>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&currStreakLabel=8B5CF6&sideNums=FFFFFF&sideLabels=8B5CF6&dates=8B5CF6" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://camo.githubusercontent.com/4202e059a6da0a02b382ca8e6ee3173b65d30ff788eb4b7b78089ad61122c7c2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b6175614564756172646f322673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565267469746c655f636f6c6f723d6638616430392669636f6e5f636f6c6f723d66386164303926746578745f636f6c6f723d6339643164392662675f636f6c6f723d306431313137" alt="Kauã Eduardo github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=KauaEduardo2&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=f8ad09&amp;icon_color=f8ad09&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%; height: auto; max-height: 195px;">
 </div>
 
 ## 💻 Linguagens Mais Utilizadas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaEduardo2&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
@@ -73,7 +73,7 @@
 ## 📈 Gráfico de Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=radical&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KauaEduardo2&theme=radical&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
