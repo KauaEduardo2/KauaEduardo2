@@ -1,5 +1,26 @@
+<!-- Header Animado em Ondas -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=2000&color=8B5CF6&center=true&vCenter=true&width=600&height=100&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Kau%C3%A3;Estudo+Desenvolvimento+de+Sistemas;Atualmente+moro+em+Colombo%2C+PR;Trabalho+no+BNE+(Banco+Nacional+de+Empregos)" alt="Typing SVG" />
+  <svg width="100%" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none">
+    <defs>
+      <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#A855F7;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#C084FC;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <path d="M0,60 C300,20 600,100 900,60 C1050,40 1200,80 1200,60 L1200,120 L0,120 Z" fill="url(#waveGradient)">
+      <animate attributeName="d" 
+               dur="3s" 
+               repeatCount="indefinite"
+               values="M0,60 C300,20 600,100 900,60 C1050,40 1200,80 1200,60 L1200,120 L0,120 Z;
+                       M0,60 C300,100 600,20 900,60 C1050,80 1200,40 1200,60 L1200,120 L0,120 Z;
+                       M0,60 C300,20 600,100 900,60 C1050,40 1200,80 1200,60 L1200,120 L0,120 Z" />
+    </path>
+  </svg>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=2000&color=8B5CF6&center=true&vCenter=true&width=600&height=100&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Kau%C3%A3;Estudo+Desenvolvimento+de+Sistemas;Atualmente+moro+em+Colombo%2C+PR;Trabalho+no+BNE+(Banco+Nacional+de+Empregos)" alt="Typing SVG" />
 </div>
 
 ---
@@ -86,20 +107,34 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&style=flat-square&color=8B5CF6" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 <div align="center">
   <p>⭐ Se este perfil te ajudou, considere dar uma estrela!</p>
+</div>
+
+<!-- Footer Animado -->
+<div align="center">
+  <svg width="100%" height="80" viewBox="0 0 1200 80" preserveAspectRatio="none">
+    <defs>
+      <linearGradient id="footerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#C084FC;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#A855F7;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <path d="M0,0 L1200,0 L1200,80 C900,60 600,20 300,60 C200,80 100,40 0,60 Z" fill="url(#footerGradient)">
+      <animate attributeName="d" 
+               dur="4s" 
+               repeatCount="indefinite"
+               values="M0,0 L1200,0 L1200,80 C900,60 600,20 300,60 C200,80 100,40 0,60 Z;
+                       M0,0 L1200,0 L1200,80 C900,20 600,60 300,20 C200,40 100,80 0,40 Z;
+                       M0,0 L1200,0 L1200,80 C900,60 600,20 300,60 C200,80 100,40 0,60 Z" />
+    </path>
+  </svg>
+</div>
+
+<div align="center">
+  <p style="margin-top: -60px; color: white; font-weight: bold; font-size: 14px;">
+    🚀 Obrigado por visitar meu perfil! 🚀
+  </p>
 </div>
